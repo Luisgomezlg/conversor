@@ -43,7 +43,7 @@
                                     </select>
                                 </div>
 
-                                <div class="col-span-4 sm:col-span-2">
+                                <!--<div class="col-span-4 sm:col-span-2">
                                     <label for="fecha" class="block text-sm font-medium text-gray-700">Fecha</label>
                                     <span
                                         class="inline-flex items-center rounded-l-md border border-r-0 border-gray-300 bg-gray-50 px-3 text-sm text-gray-500">Formato
@@ -54,7 +54,7 @@
                                             class="block w-full flex-1 rounded-none rounded-r-md border-gray-300 focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm"
                                             placeholder="YYYY-MM-DD" />
                                     </div>
-                                </div>
+                                </div>-->
                             </div>
                         </div>
                         <div class="bg-gray-50 px-4 py-3 text-right sm:px-6">
@@ -90,7 +90,7 @@ export default {
             cantidad: '',
             moneda: '',
             to: '',
-            fecha: '',
+           // fecha: '',
             resultado: 0
         }
     },
